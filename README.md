@@ -1,7 +1,5 @@
 # Shawn C. Wright  
 
-[![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)  
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE-CC-BY-4.0.md)  
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0006--6043--9295-brightgreen.svg)](https://orcid.org/0009-0006-6043-9295)  
 [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=shawncwright.shawncwright)]()  
 
