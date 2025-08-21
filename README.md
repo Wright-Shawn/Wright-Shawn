@@ -1,16 +1,38 @@
-## Hi there 👋
+# Shawn C. Wright  
 
-<!--
-**Wright-Shawn/Wright-Shawn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)  
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE-CC-BY-4.0.md)  
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0006--6043--9295-brightgreen.svg)](https://orcid.org/0009-0006-6043-9295)  
+[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=shawncwright.shawncwright)]()  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me  
+
+I am an **AI-assisted researcher** focused on developing structured workflows for complex problem solving. My approach is built around the **AI Orchestration Method (AOM)** — a framework for coordinating AI-human collaboration in research and applied analysis.  
+
+My projects range from **theoretical physics** (cosmological modeling with *Waveframe*) to **practical applications** such as **customer review analysis**. In every case, I emphasize transparent documentation, reproducibility, and rigor.  
+
+---
+
+## Core Focus  
+
+- **AI-assisted workflows**: Designing, testing, and refining AOM for reproducible research and applied projects.  
+- **Research transparency**: All projects include theory, methods, and citations.  
+- **Applied analysis**: Using AI workflows for real-world data problems (e.g., customer review classification).  
+- **Scientific modeling**: Developing and testing alternative cosmological frameworks.  
+
+---
+
+## Selected Work  
+
+- [Waveframe Project](https://github.com/) – Cosmological modeling with entropy-driven expansion.  
+- [Epistemology of Method](https://github.com/) – Formalizing AI-assisted workflows (AOM).  
+- Applied examples – Customer review analysis and classification pipelines.  
+
+---
+
+## Contact  
+
+- ORCID: [0009-0006-6043-9295](https://orcid.org/0009-0006-6043-9295)  
+- Email: **shawnkardin@gmail.com**  
