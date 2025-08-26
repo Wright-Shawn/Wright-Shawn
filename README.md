@@ -43,4 +43,4 @@ All flagship projects include reproducibility files (environment pins, logs, and
 ## Contact
 
 - ORCID: [0009-0006-6043-9295](https://orcid.org/0009-0006-6043-9295)  
-- Email: [shawnkardin@gmail.com](mailto:shawnkardin@gmail.com)  
+- Email: [shawnkardin(at)gmail(dot)com]
