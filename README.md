@@ -29,7 +29,7 @@ My projects span both **scientific domains** (cosmology modeling, societal simul
 - [**AI Workflow Orchestration (AWO)**](https://github.com/Wright-Shawn/AI-Workflow-Orchestration) — methodological framework, docs, templates, and case studies.  
 - [**CRI (Continuous Research Integration)**](https://github.com/Wright-Shawn/cri-core) — CLI/toolchain for reproducible, auditable research runs.  
 - [**Waveframe v4.0**](https://github.com/Wright-Shawn/Waveframe-v4.0) — cosmology case study, testing AWO against ΛCDM.  
-- [**Societal Progress Simulator**](https://github.com/Wright-Shawn/Societal-Model) — interactive demo of AWO in applied social science.  
+- [**Societal Progress Simulator**](https://github.com/Wright-Shawn/Societal-Progress-Simulator.git) — interactive demo of AWO in applied social science.  
 - **Applied Review Analytics** *(coming soon)* — business-focused demonstration.  
 
 ---
