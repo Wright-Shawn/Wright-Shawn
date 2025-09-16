@@ -30,6 +30,7 @@ My projects span both **scientific domains** (cosmology modeling, societal simul
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17013612.svg)](https://doi.org/10.5281/zenodo.17013612)
 - [**CRI (Continuous Research Integration)**](https://github.com/Wright-Shawn/cri-core) — CLI/toolchain for reproducible, auditable research runs.  
 - [**Waveframe v4.0**](https://github.com/Wright-Shawn/Waveframe-v4.0) — cosmology case study, testing AWO against ΛCDM.  
+[![DOI ](https://zenodo.org/badge/DOI/10.5281/zenodo.16872199.svg)](https://doi.org/10.5281/zenodo.16872199)
 - [**Societal Progress Simulator**](https://github.com/Wright-Shawn/Societal-Progress-Simulator.git) — interactive demo of AWO in applied social science.  
 - **Applied Review Analytics** *(coming soon)* — business-focused demonstration.  
 
