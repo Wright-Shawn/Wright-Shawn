@@ -7,40 +7,43 @@
 
 ## About Me
 
-I am an **AI Workflow Developer** focused on building reproducible, AI-assisted research systems with **human-in-the-loop orchestration**.  
-I created the **AI Orchestration Workflow (AOW)** — a methodological invention that transforms “using AI” into a **repeatable, auditable workflow** with versioning, logs, and reproducibility guarantees.
+I’m an **AI Workflow Developer** building reproducible, AI-assisted research systems with **human-in-the-loop orchestration**.  
+I develop the **AI Workflow Orchestration (AWO)** method and the **Continuous Research Integration (CRI)** toolchain, which together turn AI-assisted work into **auditable, falsifiable, and shareable research artifacts**.  
 
-I use AOW across both **scientific case studies** (e.g., cosmology modeling) and **applied projects** (e.g., customer review analytics).  
-Every project is designed to be reproducible, transparent, and creditable.
+My projects span both **scientific domains** (cosmology modeling, societal simulations) and **applied domains** (business text analytics), with a consistent focus on **reproducibility and transparency**.
 
 ---
 
 ## Core Focus
 
-- **AI-assisted workflows** → Engineering pipelines that make AI outputs reproducible.  
-- **Human-in-the-loop oversight** → Validation, falsifiability checks, and decision logs.  
-- **Transparency** → Public repos with documentation, reproducibility notes, and citations.  
-- **Applied analysis** → Business use cases like review analytics and text classification.  
-- **Scientific testbeds** → Stress-testing reproducibility in high-stakes domains (cosmology).  
+- **AI-assisted workflows** — pipelines that make AI outputs reproducible.  
+- **Human-in-the-loop oversight** — validation, falsifiability, and decision logs.  
+- **Transparency** — public repos with logs, artifacts, and citations.  
+- **Applied analysis** — business use cases like review analytics.  
+- **Scientific testbeds** — cosmology and societal models stress-testing reproducibility.  
 
 ---
 
 ## Selected Work
 
-- [AI Orchestration Workflow (AOW)](https://github.com/Wright-Shawn/AI-Workflow-Orchestration) – Flagship repository formalizing AOW. Includes workflow logs, documentation templates, and reproducibility practices.  
-- [Waveframe v4.0](https://github.com/Wright-Shawn/Waveframe-v4.0) – A case study in cosmology using AOW to explore falsifiability and reproducibility in theoretical research.  
-- **Applied Analysis** – Pipelines for customer review classification and text analysis, showing AOW applied to business contexts. *(Link coming soon.)*  
+- [**AI Workflow Orchestration (AWO)**](https://github.com/Wright-Shawn/AI-Workflow-Orchestration) — methodological framework, docs, templates, and case studies.  
+- [**CRI (Continuous Research Integration)**](https://github.com/Wright-Shawn/cri-core) — CLI/toolchain for reproducible, auditable research runs.  
+- [**Waveframe v4.0**](https://github.com/Wright-Shawn/Waveframe-v4.0) — cosmology case study, testing AWO against ΛCDM.  
+- [**Societal Progress Simulator**](https://github.com/Wright-Shawn/Societal-Model) — interactive demo of AWO in applied social science.  
+- **Applied Review Analytics** *(coming soon)* — business-focused demonstration.  
 
 ---
 
 ## Reproducibility Statement
 
-My work is guided by one principle: **if it can’t be reproduced, it doesn’t count.**  
-All flagship projects include reproducibility files (environment pins, logs, and artifacts) so that results can be independently verified.
+My work is guided by one principle:  
+**If it can’t be reproduced, it doesn’t count.**  
+
+All flagship projects include pinned environments, logs, and artifacts for independent verification.
 
 ---
 
 ## Contact
 
 - ORCID: [0009-0006-6043-9295](https://orcid.org/0009-0006-6043-9295)  
-- Email: [shawnkardin(at)gmail(dot)com]
+- Email: **shawnkardin@gmail.com**
