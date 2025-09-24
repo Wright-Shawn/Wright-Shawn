@@ -12,7 +12,7 @@ Continuous AI Workflow Research
 ## About Me
 
 I’m an **AI Workflow Developer** building reproducible, AI-assisted research systems with **human-in-the-loop orchestration**.  
-I develop the **AI Workflow Orchestration (AWO)** method and the **Continuous Research Integration (CRI)** toolchain, which together turn AI-assisted work into **auditable, falsifiable, and shareable research artifacts**.  
+I develop the **Aurora Workflow Orchestration (AWO)** method and the **Continuous Research Integration (CRI)** toolchain, which together turn AI-assisted work into **auditable, falsifiable, and shareable research artifacts**.  
 
 My projects span both **scientific domains** (cosmology modeling, societal simulations) and **applied domains** (business text analytics), with a consistent focus on **reproducibility and transparency**.
 
@@ -30,7 +30,7 @@ My projects span both **scientific domains** (cosmology modeling, societal simul
 
 ## Selected Work
 
-- [**AI Workflow Orchestration (AWO)**](https://github.com/Wright-Shawn/AI-Workflow-Orchestration) — methodological framework, docs, templates, and case studies.  
+- [**Aurora Workflow Orchestration (AWO)**](https://github.com/Wright-Shawn/Aurora-Workflow-Orchestration) — methodological framework, docs, templates, and case studies.  
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17013612.svg)](https://doi.org/10.5281/zenodo.17013612)
 - [**CRI (Continuous Research Integration)**](https://github.com/Wright-Shawn/cri-core) — CLI/toolchain for reproducible, auditable research runs.  
 - [**Waveframe v4.0**](https://github.com/Wright-Shawn/Waveframe-v4.0) — cosmology case study, testing AWO against ΛCDM.  
