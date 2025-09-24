@@ -4,6 +4,9 @@ Continuous AI Workflow Research
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0006--6043--9295-brightgreen.svg)](https://orcid.org/0009-0006-6043-9295)
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/179ebcb9-32b0-40d9-a430-c95595ba038c" />
+
+
 ---
 
 ## About Me
