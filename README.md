@@ -1,5 +1,5 @@
 # Shawn C. Wright
-### Continuous AI Workflow Research
+Continuous AI Workflow Research
 
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0006--6043--9295-brightgreen.svg)](https://orcid.org/0009-0006-6043-9295)
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
