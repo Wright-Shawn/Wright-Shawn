@@ -1,5 +1,5 @@
 # Shawn C. Wright
-Continuous AI Workflow Research
+## Waveframe Labs
 
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0006--6043--9295-brightgreen.svg)](https://orcid.org/0009-0006-6043-9295)
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
@@ -12,7 +12,7 @@ Continuous AI Workflow Research
 ## About Me
 
 I’m an **AI Workflow Developer** building reproducible, AI-assisted research systems with **human-in-the-loop orchestration**.  
-I develop the **Aurora Workflow Orchestration (AWO)** method and the **Continuous Research Integration (CRI)** toolchain, which together turn AI-assisted work into **auditable, falsifiable, and shareable research artifacts**.  
+I develop the **Aurora Workflow Orchestration (AWO)** method and the **Continuous Research Integration (CRI-CORE)** toolchain, which together turn AI-assisted work into **auditable, falsifiable, and shareable research artifacts**.  
 
 My projects span both **scientific domains** (cosmology modeling, societal simulations) and **applied domains** (business text analytics), with a consistent focus on **reproducibility and transparency**.
 
