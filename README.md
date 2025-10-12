@@ -37,6 +37,7 @@ My projects span both **scientific domains** (cosmology modeling, societal simul
 [![DOI ](https://zenodo.org/badge/DOI/10.5281/zenodo.16872199.svg)](https://doi.org/10.5281/zenodo.16872199)
 - [**Societal Progress Simulator**](https://github.com/Wright-Shawn/Societal-Progress-Simulator.git) — interactive demo of AWO in applied social science.  
 - **Applied Review Analytics** *(coming soon)* — business-focused demonstration.  
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17258420.svg)]
 
 ---
 
