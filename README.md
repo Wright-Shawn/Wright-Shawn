@@ -31,10 +31,10 @@ My projects span both **scientific domains** (cosmology modeling, societal simul
 ## Selected Work
 
 - [**Aurora Workflow Orchestration (AWO)**](https://github.com/Wright-Shawn/Aurora-Workflow-Orchestration) — methodological framework, docs, templates, and case studies.  
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17013612.svg)](https://doi.org/10.5281/zenodo.17013612)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17041921.svg)](https://doi.org/10.5281/zenodo.17041921)
 - [**CRI (Continuous Research Integration)**](https://github.com/Wright-Shawn/cri-core) — CLI/toolchain for reproducible, auditable research runs.  
 - [**Waveframe v4.0**](https://github.com/Wright-Shawn/Waveframe-v4.0) — cosmology case study, testing AWO against ΛCDM.  
-[![DOI ](https://zenodo.org/badge/DOI/10.5281/zenodo.16872199.svg)](https://doi.org/10.5281/zenodo.16872199)
+[![DOI ](https://zenodo.org/badge/DOI/10.5281/zenodo.17041850.svg)](https://doi.org/10.5281/zenodo.17041850)
 - [**Societal Progress Simulator**](https://github.com/Wright-Shawn/Societal-Progress-Simulator.git) — interactive demo of AWO in applied social science.   
 ![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17258420.svg)
 
