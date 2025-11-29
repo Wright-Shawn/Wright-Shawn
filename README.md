@@ -1,57 +1,73 @@
 <div align="center">
 
-# **Shawn C. Wright**  
-**AI Workflow Orchestration & Scientific Reproducibility**  
-Founder — **Waveframe Labs**
+# **Waveframe Labs — Shawn C. Wright**  
+**AI Workflow Orchestration & Scientific Reproducibility**
+
+**Founder & Research Architect**
 
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0006--6043--9295-brightgreen.svg)](https://orcid.org/0009-0006-6043-9295)
-[![AWO DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.17013612-blue)](https://doi.org/10.5281/zenodo.17013612)
-[![ARI DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.17743096-blue)](https://doi.org/10.5281/zenodo.17743096)
-[![Waveframe DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.16872199-blue)](https://doi.org/10.5281/zenodo.16872199)
-[![SHS DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.17258419-blue)](https://doi.org/10.5281/zenodo.17258419)
+[![ARI DOI](https://img.shields.io/badge/ARI_DOI-10.5281/zenodo.17743096-blue)](https://doi.org/10.5281/zenodo.17743096)
+[![AWO DOI](https://img.shields.io/badge/AWO_DOI-10.5281/zenodo.17013612-blue)](https://doi.org/10.5281/zenodo.17013612)
+[![Waveframe v4.0 DOI](https://img.shields.io/badge/Waveframe_v4.0_DOI-10.5281/zenodo.16872199-blue)](https://doi.org/10.5281/zenodo.16872199)
+[![SHS DOI](https://img.shields.io/badge/SHS_DOI-10.5281/zenodo.17258419-blue)](https://doi.org/10.5281/zenodo.17258419)
 
 </div>
 
 ---
 
-## **About Me**
+## About Me
 
-I develop **deterministic, AI-assisted research workflows** designed for transparent, reproducible, and falsifiable scientific inquiry.
+I develop **deterministic, AI-assisted research workflows** designed for transparent, reproducible, and falsifiable science.
 
 My work centers on three connected layers of the **Aurora research ecosystem**:
 
-- **AWO** — *Aurora Workflow Orchestration*, the formal methodology for deterministic, governed AI–human research  
-- **CRI-CORE** — the execution and constraint-enforcement runtime backing AWO  
-- **ARI** — *Aurora Research Initiative*, the governance and metadata framework defining rules for reproducible AI research
+- **AWO** — *Aurora Workflow Orchestration*, the formal methodology for governed AI–human research  
+- **CRI-CORE** — the execution and constraint-enforcement runtime that implements AWO’s rules  
+- **ARI** — *Aurora Research Initiative*, the institutional governance and metadata framework that defines what “reproducible” means inside this ecosystem  
 
-These frameworks support my open-science case studies, including **Waveframe v4.0** (cosmology) and the **Societal Health Simulator** (applied systems modeling).
+These frameworks provide the backbone for my open-science case studies, including **Waveframe v4.0** (cosmology) and the **Societal Health Simulator (SHS)** (applied systems-science modeling).
 
-My principle is simple:  
+---
+
+## Research Philosophy
+
+I treat reproducibility and governance as first-class research objects, not afterthoughts.
+
+Practical commitments:
+
+- **Replayability:** Any published result should be re-runnable from code + metadata alone.  
+- **Determinism:** Given the same inputs and environment, workflows should converge to the same artifacts.  
+- **Provenance:** Every artifact must carry an auditable trail of decisions, versions, and model interactions.  
+- **Governance before trust:** If a process cannot be governed and constrained, its outputs are not scientifically trustworthy.  
+
 **If research cannot be replayed, audited, and verified — it doesn’t count.**
 
 ---
 
-## **Aurora Research Stack**
-```  
-    ┌───────────────────────────────────────────┐
-    │               ARI (Governance)             │
-    │  Institutional rules + metadata standards  │
-    └───────────────────────────┬───────────────┘
-                                │
-    ┌───────────────────────────┴───────────────┐
-    │        AWO (Methodology Layer)             │
-    │   Deterministic workflow orchestration     │
-    └───────────────────────────┬───────────────┘
-                                │
-    ┌───────────────────────────┴───────────────┐
-    │           CRI-CORE (Runtime)               │
-    │  Execution + constraint enforcement engine │
-    └───────────────────────────┬───────────────┘
-                                │
-    ┌───────────────────────────┴───────────────┐
-    │      Case Studies / Applied Systems        │
-    │ Waveframe v4.0 • SHS • SPS (Modeling)      │
-    └───────────────────────────────────────────┘
+## How These Projects Interconnect
+
+The Aurora stack is intentionally layered: governance → method → runtime → case studies.
+
+```text
+        ┌─────────────────────────────────────────────┐
+        │ ARI — Aurora Research Initiative            │
+        │ Governance, policy, and metadata standards  │
+        └───────────────────────────────┬─────────────┘
+                                        │
+        ┌───────────────────────────────┴─────────────┐
+        │ AWO — Aurora Workflow Orchestration         │
+        │ Formal method for governed AI–human flows   │
+        └───────────────────────────────┬─────────────┘
+                                        │
+        ┌───────────────────────────────┴─────────────┐
+        │ CRI-CORE — Execution & Enforcement Runtime  │
+        │ Deterministic runs, constraints, integrity  │
+        └───────────────────────────────┬─────────────┘
+                                        │
+        ┌───────────────────────────────┴─────────────┐
+        │ Case Studies / Applied Systems              │
+        │ Waveframe v4.0 • Societal Health Simulator  │
+        └─────────────────────────────────────────────┘  
 ```
 
 ---
