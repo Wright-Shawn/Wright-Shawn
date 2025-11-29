@@ -3,10 +3,10 @@
 </p>  
 <div align="center">
 
-# **Waveframe Labs — Shawn C. Wright**  
-**AI Workflow Orchestration & Scientific Reproducibility**
+# Shawn C. Wright  
+Founder & Research Architect — Waveframe Labs  
 
-**Founder & Research Architect**
+**AI Workflow Orchestration · Scientific Reproducibility**
 
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0006--6043--9295-brightgreen.svg)](https://orcid.org/0009-0006-6043-9295)
 [![ARI DOI](https://img.shields.io/badge/ARI_DOI-10.5281/zenodo.17743096-blue)](https://doi.org/10.5281/zenodo.17743096)
