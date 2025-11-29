@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Wright-Shawn/Wright-Shawn/main/figures/Portfolio_Banner.PNG" width="100%" />
+</p>  
 <div align="center">
 
 # **Waveframe Labs — Shawn C. Wright**  
