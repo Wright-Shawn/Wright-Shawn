@@ -106,7 +106,7 @@ Cosmology case study demonstrating governed reproducibility.
 
 ### **Societal Health Simulator (SHS)**  
 Applied systems-science reproducibility testbed.  
-🔗 https://github.com/Waveframe-Labs/Societal-Progress-Simulator  
+🔗 https://github.com/Waveframe-Labs/Societal-Health-Simulator  
 **Concept DOI:** 10.5281/zenodo.17258419
 
 ---
