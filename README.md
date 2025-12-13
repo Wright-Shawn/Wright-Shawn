@@ -6,7 +6,7 @@
 # Shawn C. Wright  
 Founder & Research Architect — Waveframe Labs  
 
-**AI Workflow Orchestration · Scientific Reproducibility**
+**Governed AI–Human Research · Reproducibility · Scientific Integrity**
 
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0006--6043--9295-brightgreen.svg)](https://orcid.org/0009-0006-6043-9295)
 [![ARI DOI](https://img.shields.io/badge/ARI_DOI-10.5281/zenodo.17743096-blue)](https://doi.org/10.5281/zenodo.17743096)
@@ -20,15 +20,15 @@ Founder & Research Architect — Waveframe Labs
 
 ## About Me
 
-I develop **deterministic, AI-assisted research workflows** designed for transparent, reproducible, and falsifiable science.
+I design and maintain **governed, deterministic AI–human research systems** focused on transparent, reproducible, and falsifiable science.
 
 My work centers on three connected layers of the **Aurora research ecosystem**:
 
+- **ARI** — *Aurora Research Initiative*, the institutional governance and metadata framework that defines epistemic legitimacy  
 - **AWO** — *Aurora Workflow Orchestration*, the formal methodology for governed AI–human research  
-- **CRI-CORE** — the execution and constraint-enforcement runtime that implements AWO’s rules  
-- **ARI** — *Aurora Research Initiative*, the institutional governance and metadata framework that defines what “reproducible” means inside this ecosystem  
+- **CRI-CORE** — the deterministic execution and constraint-enforcement runtime that implements AWO’s rules  
 
-These frameworks provide the backbone for my open-science case studies, including **Waveframe v4.0** (cosmology) and the **Societal Health Simulator (SHS)** (applied systems-science modeling).
+These frameworks provide the backbone for open-science case studies, including **Waveframe v4.0** (cosmology) and the **Societal Health Simulator (SHS)** (applied systems-science modeling).
 
 ---
 
@@ -75,37 +75,37 @@ The Aurora stack is intentionally layered: governance → method → runtime →
 
 ---
 
-## **Current Projects**
+## **Primary Research Artifacts**
+
+### **Aurora Research Initiative (ARI)**  
+Institutional governance and metadata framework for reproducible AI–human research.  
+🔗 https://github.com/Waveframe-Labs/Aurora-Research-Initiative  
+**Concept DOI:** 10.5281/zenodo.17743096
+
+---
 
 ### **Aurora Workflow Orchestration (AWO)**  
-Methodology for reproducible, transparent, human-in-the-loop research.  
+Formal methodology for transparent, governed, human-in-the-loop research workflows.  
 🔗 https://github.com/Waveframe-Labs/Aurora-Workflow-Orchestration  
 **Concept DOI:** 10.5281/zenodo.17013612
 
 ---
 
 ### **CRI-CORE**  
-Deterministic execution & constraint-enforcement engine.  
+Deterministic execution and constraint-enforcement engine implementing AWO rules.  
 🔗 https://github.com/Waveframe-Labs/CRI-CORE
 
 ---
 
-### **Aurora Research Initiative (ARI)**  
-Governance + metadata framework for reproducible AI workflows.  
-🔗 https://github.com/Waveframe-Labs/Aurora-Research-Initiative  
-**Concept DOI:** 10.5281/zenodo.17743096
-
----
-
 ### **Waveframe v4.0**  
-Cosmology case study demonstrating governed reproducibility.  
+Cosmology case study demonstrating governed reproducibility in scientific modeling.  
 🔗 https://github.com/Waveframe-Labs/Waveframe-v4.0  
 **Concept DOI:** 10.5281/zenodo.16872199
 
 ---
 
 ### **Societal Health Simulator (SHS)**  
-Applied systems-science reproducibility testbed.  
+Applied systems-science reproducibility testbed for sociotechnical modeling.  
 🔗 https://github.com/Waveframe-Labs/Societal-Health-Simulator  
 **Concept DOI:** 10.5281/zenodo.17258419
 
@@ -113,12 +113,12 @@ Applied systems-science reproducibility testbed.
 
 ## **Research Focus**
 
-- deterministic AI workflows  
-- provenance + metadata architectures  
-- institutional governance  
-- reproducible computational research  
-- model auditing & verification  
-- applied cosmology & systems modeling  
+- governed AI–human research workflows  
+- provenance and metadata architectures  
+- institutional research governance  
+- reproducible computational science  
+- model auditing and verification  
+- applied cosmology and systems modeling  
 
 ---
 
@@ -131,5 +131,5 @@ Applied systems-science reproducibility testbed.
 ---
 
 <div align="center">
-  <sub>© 2025 Waveframe Labs — Independent Open-Science Research Entity • Governed under the Aurora Research Initiative (ARI)</sub>
+  <sub>© 2025 Waveframe Labs — Independent Research Organization • Governed under the Aurora Research Initiative (ARI)</sub>
 </div>
