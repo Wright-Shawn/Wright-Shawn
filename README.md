@@ -8,7 +8,9 @@ Founder & Research Architect — Waveframe Labs
 
 **Governed AI–Human Research · Reproducibility · Scientific Integrity**
 
-[![ORCID](https://img.shields.io/badge/ORCID-0009--0006--6043--9295-brightgreen.svg)](https://orcid.org/0009-0006-6043-9295)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0006--6043--9295-brightgreen.svg)](https://orcid.org/0009-0006-6043-9295)  
+[![NTD DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17957384.svg)](https://doi.org/10.5281/zenodo.17957384)    
+[![NTS DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17809676.svg)](https://doi.org/10.5281/zenodo.17809676)   
 [![ARI DOI](https://img.shields.io/badge/ARI_DOI-10.5281/zenodo.17743096-blue)](https://doi.org/10.5281/zenodo.17743096)
 [![AWO DOI](https://img.shields.io/badge/AWO_DOI-10.5281/zenodo.17013612-blue)](https://doi.org/10.5281/zenodo.17013612)
 [![Waveframe v4.0 DOI](https://img.shields.io/badge/Waveframe_v4.0_DOI-10.5281/zenodo.16872199-blue)](https://doi.org/10.5281/zenodo.16872199)
