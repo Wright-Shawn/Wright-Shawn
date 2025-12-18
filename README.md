@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Wright-Shawn/Wright-Shawn/main/figures/Portfolio_Banner.PNG" width="100%" />
+  <img src="https://raw.githubusercontent.com/Wright-Shawn/Wright-Shawn/main/figures/waveframe-logo-full.PNG" width="100%" />
 </p>  
 <div align="center">
 
