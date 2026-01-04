@@ -91,28 +91,59 @@ If a result cannot be **replayed, audited, and independently verified**, it does
 
 ---
 
-## Selected Research Artifacts
+## Foundational Doctrine & Standards
 
-### Aurora Research Initiative (ARI)  
+These documents define the **epistemic, disclosure, and governance constraints** that apply to all research conducted within the Waveframe ecosystem.
+
+### **Neurotransparency Doctrine (NTD)**  
+Foundational epistemic doctrine defining traceability, cognitive disclosure, and legitimacy in AI–human research.  
+🔗 https://github.com/Waveframe-Labs/Neurotransparency-Doctrine  
+**Concept DOI:** 10.5281/zenodo.17957384
+
+---
+
+### **Neurotransparency Standard (NTS)**  
+Normative specification defining disclosure requirements, agent roles, and compliance thresholds.  
+🔗 https://github.com/Waveframe-Labs/Neurotransparency-Standard  
+**Specification DOI:** 10.5281/zenodo.17809676
+
+---
+
+### **Aurora Research Initiative (ARI)**  
+Institutional governance framework defining metadata law, authority boundaries, and artifact validity.  
 🔗 https://github.com/Waveframe-Labs/Aurora-Research-Initiative  
 **Concept DOI:** 10.5281/zenodo.17743096
 
-### Aurora Workflow Orchestration (AWO)  
+---
+
+## Methodology, Runtime, and Case Studies
+
+These components operationalize the above doctrine through enforceable workflows, deterministic execution, and applied research.
+
+### **Aurora Workflow Orchestration (AWO)**  
+Formal methodology for governed, auditable AI–human research workflows.  
 🔗 https://github.com/Waveframe-Labs/Aurora-Workflow-Orchestration  
 **Concept DOI:** 10.5281/zenodo.17013612
 
-### CRI-CORE  
+---
+
+### **CRI-CORE**  
+Deterministic execution and constraint-enforcement runtime implementing AWO rules.  
 🔗 https://github.com/Waveframe-Labs/CRI-CORE
 
-### Waveframe v4.0  
+---
+
+### **Waveframe v4.0**  
+Cosmology case study demonstrating governed reproducibility in scientific modeling.  
 🔗 https://github.com/Waveframe-Labs/Waveframe-v4.0  
 **Concept DOI:** 10.5281/zenodo.16872199
 
-### Societal Health Simulator (SHS)  
-🔗 https://github.com/Waveframe-Labs/Societal-Health-Simulator  
-**Concept DOI:** 10.5281/zenodo.17258419
-
 ---
+
+### **Societal Health Simulator (SHS)**  
+Applied systems-science reproducibility testbed for sociotechnical modeling.  
+🔗 https://github.com/Waveframe-Labs/Societal-Health-Simulator  
+**Concept DOI:** 10.5281/zenodo.17258419---
 
 ## Contact
 
