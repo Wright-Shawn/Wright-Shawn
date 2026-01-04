@@ -69,7 +69,7 @@ If a result cannot be **replayed, audited, and independently verified**, it does
                                 │
 ┌───────────────────────────────┴─────────────┐
 │ AWO — Research Methodology                  │
-│ Governs AI–human workflows                 │
+│ Governs AI–human workflows                  │
 └───────────────────────────────┬─────────────┘
                                 │
 ┌───────────────────────────────┴─────────────┐
