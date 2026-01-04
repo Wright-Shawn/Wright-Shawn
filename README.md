@@ -102,9 +102,9 @@ Foundational epistemic doctrine defining traceability, cognitive disclosure, and
 
 ---
 
-### **Neurotransparency Standard (NTS)**  
+### **Neurotransparency Specification (NTS)**  
 Normative specification defining disclosure requirements, agent roles, and compliance thresholds.  
-🔗 https://github.com/Waveframe-Labs/Neurotransparency-Standard  
+🔗 https://github.com/Waveframe-Labs/Neurotransparency-Specification  
 **Specification DOI:** 10.5281/zenodo.17809676
 
 ---
