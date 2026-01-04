@@ -62,24 +62,31 @@ If a result cannot be **replayed, audited, and independently verified**, it does
 ## System Architecture (High Level)
 
 ```text
-┌─────────────────────────────────────────────┐
-│ ARI — Governance & Metadata Law             │
-│ Defines epistemic legitimacy                │
-└───────────────────────────────┬─────────────┘
+┌───────────────────────────────────────────────┐
+│ Neurotransparency Doctrine (NTD)              │
+│ Neurotransparency Standard (NTS)              │
+│ Epistemic principles & disclosure constraints │
+└───────────────────────────────┬───────────────┘
                                 │
-┌───────────────────────────────┴─────────────┐
-│ AWO — Research Methodology                  │
-│ Governs AI–human workflows                  │
-└───────────────────────────────┬─────────────┘
+┌───────────────────────────────┴───────────────┐
+│ ARI — Aurora Research Initiative              │
+│ Institutional governance & metadata law       │
+└───────────────────────────────┬───────────────┘
                                 │
-┌───────────────────────────────┴─────────────┐
-│ CRI-CORE — Enforcement Runtime              │
-│ Deterministic execution & auditability      │
-└───────────────────────────────┬─────────────┘
+┌───────────────────────────────┴───────────────┐
+│ AWO — Aurora Workflow Orchestration           │
+│ Methodology enforcing governance              │
+└───────────────────────────────┬───────────────┘
                                 │
-┌───────────────────────────────┴─────────────┐
-│ Applied Case Studies & Tooling              │
-└─────────────────────────────────────────────┘
+┌───────────────────────────────┴───────────────┐
+│ CRI-CORE — Execution & Enforcement Runtime    │
+│ Deterministic runs, validation, audit         │
+└───────────────────────────────┬───────────────┘
+                                │
+┌───────────────────────────────┴───────────────┐
+│ Case Studies / Tools / Outputs                │
+│ Waveframe • SHS • Forge (future)              │
+└───────────────────────────────────────────────┘
 ```
 
 ---
