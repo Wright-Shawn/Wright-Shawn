@@ -18,7 +18,29 @@ DOI](https://img.shields.io/badge/ARI_DOI-10.5281/zenodo.17743096-blue)](https:/
 [![AWO
 DOI](https://img.shields.io/badge/AWO_DOI-10.5281/zenodo.17013612-blue)](https://doi.org/10.5281/zenodo.17013612)
 
-------------------------------------------------------------------------
+---
+
+## Start Here
+
+If you're exploring my work for the first time, these repositories provide the clearest view of how the system operates in practice.
+
+### Waveframe Stamp
+Deterministic artifact and metadata validation tooling used in governed research workflows.  
+🔗 https://github.com/Waveframe-Labs/Waveframe-Stamp
+
+
+
+### Claim Lifecycle Demo
+Governed research workflow demonstrating deterministic claim evaluation and mutation gating.  
+🔗 https://github.com/Waveframe-Labs/claim-lifecycle-demo
+
+
+
+### CRI-CORE RACI Finance Demo
+Illustrates deterministic responsibility enforcement in an AI-assisted financial decision workflow.  
+🔗 https://github.com/Waveframe-Labs/cricore-raci-finance-demo
+
+---
 
 ## About
 
@@ -33,7 +55,7 @@ This work is developed under **Waveframe Labs**, an independent research
 organization focused on building infrastructure for **trustworthy
 AI-assisted science**.
 
-------------------------------------------------------------------------
+---
 
 ## The Aurora Research Stack
 
@@ -54,7 +76,7 @@ My work is organized as a deliberately layered system:
 These layers are designed to be **invisible when things go right**, and
 **decisive when things go wrong**.
 
-------------------------------------------------------------------------
+---
 
 ## Research Commitments
 
@@ -72,7 +94,7 @@ I work from a small set of non-negotiable principles:
 If a result cannot be **replayed, audited, and independently verified**,
 it does not count as science.
 
-------------------------------------------------------------------------
+---
 
 ## System Architecture (High Level)
 
@@ -104,7 +126,7 @@ it does not count as science.
 └───────────────────────────────────────────────┘
 ```
 
-------------------------------------------------------------------------
+---
 
 ## Foundational Doctrine & Standards
 
@@ -119,7 +141,7 @@ disclosure, and legitimacy in AI--human research.\
 🔗 https://github.com/Waveframe-Labs/Neurotransparency-Doctrine\
 **Concept DOI:** 10.5281/zenodo.17957384
 
-------------------------------------------------------------------------
+---
 
 ### **Neurotransparency Specification (NTS)**
 
@@ -128,7 +150,7 @@ and compliance thresholds.\
 🔗 https://github.com/Waveframe-Labs/Neurotransparency-Specification\
 **Specification DOI:** 10.5281/zenodo.17809676
 
-------------------------------------------------------------------------
+---
 
 ### **Aurora Research Initiative (ARI)**
 
@@ -137,7 +159,7 @@ boundaries, and artifact validity.\
 🔗 https://github.com/Waveframe-Labs/Aurora-Research-Initiative\
 **Concept DOI:** 10.5281/zenodo.17743096
 
-------------------------------------------------------------------------
+---
 
 ## Methodology, Runtime, and Case Studies
 
@@ -148,7 +170,7 @@ workflows.\
 🔗 https://github.com/Waveframe-Labs/Aurora-Workflow-Orchestration\
 **Concept DOI:** 10.5281/zenodo.17013612
 
-------------------------------------------------------------------------
+---
 
 ### **CRI-CORE**
 
@@ -156,7 +178,7 @@ Deterministic execution and constraint-enforcement runtime implementing
 AWO rules.\
 🔗 https://github.com/Waveframe-Labs/CRI-CORE
 
-------------------------------------------------------------------------
+---
 
 ### **Waveframe v4.0**
 
@@ -165,7 +187,7 @@ scientific modeling.\
 🔗 https://github.com/Waveframe-Labs/Waveframe-v4.0\
 **Concept DOI:** 10.5281/zenodo.16872199
 
-------------------------------------------------------------------------
+---
 
 ### **Societal Health Simulator (SHS)**
 
@@ -174,7 +196,7 @@ modeling.\
 🔗 https://github.com/Waveframe-Labs/Societal-Health-Simulator\
 **Concept DOI:** 10.5281/zenodo.17258419
 
-------------------------------------------------------------------------
+---
 
 ## Tooling
 
@@ -198,7 +220,7 @@ pip install waveframe-stamp
 
 🔗 https://github.com/Waveframe-Labs/Waveframe-Stamp
 
-------------------------------------------------------------------------
+---
 
 ### **Waveframe Forge**
 
@@ -208,7 +230,7 @@ PDF research outputs.
 Forge freezes validated sources and generates reproducible publication
 artifacts with embedded provenance.
 
-------------------------------------------------------------------------
+---
 
 ## Contact
 
@@ -216,7 +238,7 @@ artifacts with embedded provenance.
 🌐 https://waveframelabs.org\
 🧭 ORCID: https://orcid.org/0009-0006-6043-9295
 
-------------------------------------------------------------------------
+---
 
 <div align="center">
   <sub>© 2026 Waveframe Labs</sub>
