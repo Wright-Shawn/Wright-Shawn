@@ -17,7 +17,6 @@ DOI](https://img.shields.io/badge/NTS_DOI-10.5281/zenodo.17809676-blue)](https:/
 DOI](https://img.shields.io/badge/ARI_DOI-10.5281/zenodo.17743096-blue)](https://doi.org/10.5281/zenodo.17743096)\
 [![AWO
 DOI](https://img.shields.io/badge/AWO_DOI-10.5281/zenodo.17013612-blue)](https://doi.org/10.5281/zenodo.17013612)
-:::
 
 ------------------------------------------------------------------------
 
