@@ -1,11 +1,7 @@
-```{=html}
 <p align="center">
-```
-`<img src="https://raw.githubusercontent.com/Wright-Shawn/Wright-Shawn/main/figures/waveframe-logo-banner-mark.png" width="100%" />`{=html}
-```{=html}
+  <img src="https://raw.githubusercontent.com/Wright-Shawn/Wright-Shawn/main/figures/waveframe-logo-banner-mark.png" width="100%" />
 </p>
-```
-::: {align="center"}
+
 # Shawn C. Wright
 
 Founder & Research Architect --- Waveframe Labs
@@ -223,6 +219,6 @@ artifacts with embedded provenance.
 
 ------------------------------------------------------------------------
 
-::: {align="center"}
-`<sub>`{=html}© 2026 Waveframe Labs`</sub>`{=html}
-:::
+<div align="center">
+  <sub>© 2026 Waveframe Labs</sub>
+</div>
