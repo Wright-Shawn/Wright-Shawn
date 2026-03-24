@@ -44,15 +44,15 @@ A working end-to-end pipeline that:
 ## How It Works
 
 Policy  
-↓
+↓    
 Contract Compiler  
-↓
+↓    
 Proposal  
-↓
+↓    
 Normalizer    
-↓
+↓     
 CRI-COR    
-↓
+↓    
 COMMIT ALLOWED / BLOCKED    
 
 ---
