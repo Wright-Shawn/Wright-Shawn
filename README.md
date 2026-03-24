@@ -4,56 +4,46 @@
 
 # Shawn C. Wright
 
-Founder & Research Architect --- Waveframe Labs
+Founder & Research Architect — Waveframe Labs
 
-**Governed AI--Human Research · Reproducibility · Scientific Integrity**
+**Deterministic Enforcement · AI Execution Control · Governed Systems**
 
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0006--6043--9295-brightgreen.svg)](https://orcid.org/0009-0006-6043-9295)\
-[![NTD
-DOI](https://img.shields.io/badge/NTD_DOI-10.5281/zenodo.17957384-blue)](https://doi.org/10.5281/zenodo.17957384)\
-[![NTS
-DOI](https://img.shields.io/badge/NTS_DOI-10.5281/zenodo.17809676-blue)](https://doi.org/10.5281/zenodo.17809676)\
-[![ARI
-DOI](https://img.shields.io/badge/ARI_DOI-10.5281/zenodo.17743096-blue)](https://doi.org/10.5281/zenodo.17743096)\
-[![AWO
-DOI](https://img.shields.io/badge/AWO_DOI-10.5281/zenodo.17013612-blue)](https://doi.org/10.5281/zenodo.17013612)
+[![NTD DOI](https://img.shields.io/badge/NTD_DOI-10.5281/zenodo.17957384-blue)](https://doi.org/10.5281/zenodo.17957384)\
+[![NTS DOI](https://img.shields.io/badge/NTS_DOI-10.5281/zenodo.17809676-blue)](https://doi.org/10.5281/zenodo.17809676)\
+[![ARI DOI](https://img.shields.io/badge/ARI_DOI-10.5281/zenodo.17743096-blue)](https://doi.org/10.5281/zenodo.17743096)\
+[![AWO DOI](https://img.shields.io/badge/AWO_DOI-10.5281/zenodo.17013612-blue)](https://doi.org/10.5281/zenodo.17013612)
 
 ---
 
 ## Start Here
 
-If you're exploring my work for the first time, these repositories provide the clearest view of how the system operates in practice.
+If you're exploring my work, start with the execution layer — where AI-generated actions are evaluated before they are allowed to run.
 
-### Waveframe Stamp
-Deterministic artifact and metadata validation tooling used in governed research workflows.  
-🔗 https://github.com/Waveframe-Labs/Waveframe-Stamp
+### Governed Mutation Demo (Finance)
+End-to-end pipeline that blocks unsafe AI-generated decisions before execution.  
+🔗 https://github.com/Waveframe-Labs/governed-finance-mutation-demo
 
+### CRI-CORE
+Deterministic enforcement engine that decides whether proposed system state changes are allowed to commit.  
+🔗 https://github.com/Waveframe-Labs/CRI-CORE
 
-
-### Claim Lifecycle Demo
-Governed research workflow demonstrating deterministic claim evaluation and mutation gating.  
-🔗 https://github.com/Waveframe-Labs/claim-lifecycle-demo
-
-
-
-### CRI-CORE RACI Finance Demo
-Illustrates deterministic responsibility enforcement in an AI-assisted financial decision workflow.  
-🔗 https://github.com/Waveframe-Labs/cricore-raci-finance-demo
+### Contract Compiler
+Compiles governance policies into deterministic contracts used at runtime.  
+🔗 https://github.com/Waveframe-Labs/cricore-contract-compiler
 
 ---
 
 ## About
 
-I design and maintain **governed, deterministic AI--human research
-systems** focused on transparency, reproducibility, and falsifiability.
+I design and build **deterministic enforcement systems** that decide whether AI-generated actions are allowed to execute.
 
-My work treats **research process itself** as a first-class scientific
-object --- something that must be specified, constrained, audited, and
-replayable.
+My work focuses on the **execution boundary** — the moment a system attempts to change state — where governance must be resolved and enforced, not assumed.
 
-This work is developed under **Waveframe Labs**, an independent research
-organization focused on building infrastructure for **trustworthy
-AI-assisted science**.
+Most systems detect or log invalid behavior after it happens.  
+I focus on stopping invalid actions before they execute.
+
+This work is developed under **Waveframe Labs**, an independent research organization building infrastructure for governed, auditable AI systems.
 
 ---
 
@@ -61,20 +51,19 @@ AI-assisted science**.
 
 My work is organized as a deliberately layered system:
 
--   **ARI --- Aurora Research Initiative**\
-    Institutional governance, metadata policy, and epistemic constraints
-    defining what counts as legitimate research output.
+- **ARI — Aurora Research Initiative**  
+  Defines institutional authority, metadata policy, and governance constraints
 
--   **AWO --- Aurora Workflow Orchestration**\
-    A formal methodology for governed, AI--human research workflows with
-    explicit roles, artifacts, and traceability.
+- **AWO — Aurora Workflow Orchestration**  
+  Defines structured workflows, roles, and reproducibility guarantees
 
--   **CRI-CORE**\
-    A deterministic execution and enforcement runtime that
-    operationalizes AWO constraints and produces auditable provenance.
+- **CRI-CORE**  
+  Deterministic execution and enforcement runtime that evaluates whether state transitions are allowed before execution
 
-These layers are designed to be **invisible when things go right**, and
-**decisive when things go wrong**.
+These layers are designed to be:
+
+- invisible when things go right  
+- decisive when something attempts to go wrong  
 
 ---
 
@@ -82,161 +71,62 @@ These layers are designed to be **invisible when things go right**, and
 
 I work from a small set of non-negotiable principles:
 
--   **Replayability** --- published results must be re-runnable from
-    code + metadata alone\
--   **Determinism** --- identical inputs and environments must converge
-    to identical artifacts\
--   **Provenance** --- every artifact must carry an auditable lineage of
-    decisions and transformations\
--   **Governance before trust** --- if a process cannot be constrained,
-    it is not scientifically reliable
+- **Replayability** — results must be reproducible from code + metadata  
+- **Determinism** — identical inputs produce identical outputs  
+- **Provenance** — every artifact must carry auditable lineage  
+- **Enforcement before trust** — if a system cannot constrain behavior, it cannot be trusted  
 
-If a result cannot be **replayed, audited, and independently verified**,
-it does not count as science.
+If a system cannot **block invalid actions**, it is not governed.
 
 ---
 
 ## System Architecture (High Level)
 
-``` text
-┌───────────────────────────────────────────────┐
-│ Neurotransparency Doctrine (NTD)              │
-│ Neurotransparency Standard (NTS)              │
-│ Epistemic principles & disclosure constraints │
-└───────────────────────────────┬───────────────┘
-                                │
-┌───────────────────────────────┴───────────────┐
-│ ARI — Aurora Research Initiative              │
-│ Institutional governance & metadata law       │
-└───────────────────────────────┬───────────────┘
-                                │
-┌───────────────────────────────┴───────────────┐
-│ AWO — Aurora Workflow Orchestration           │
-│ Methodology enforcing governance              │
-└───────────────────────────────┬───────────────┘
-                                │
-┌───────────────────────────────┴───────────────┐
-│ CRI-CORE — Execution & Enforcement Runtime    │
-│ Deterministic runs, validation, audit         │
-└───────────────────────────────┬───────────────┘
-                                │
-┌───────────────────────────────┴───────────────┐
-│ Case Studies / Tools / Outputs                │
-│ Waveframe • SHS • Forge (future)              │
-└───────────────────────────────────────────────┘
-```
-
+Policy
+  ↓
+Contract Compiler
+  ↓
+Proposal Normalizer
+  ↓
+CRI-CORE
+  ↓
+Commit Decision (ALLOW / BLOCK)
 ---
 
 ## Foundational Doctrine & Standards
 
-These documents define the **epistemic, disclosure, and governance
-constraints** that apply to all research conducted within the Waveframe
-ecosystem.
+These define the epistemic and governance constraints underlying the system.
 
-### **Neurotransparency Doctrine (NTD)**
+### Neurotransparency Doctrine (NTD)
+🔗 https://github.com/Waveframe-Labs/Neurotransparency-Doctrine  
+DOI: 10.5281/zenodo.17957384
 
-Foundational epistemic doctrine defining traceability, cognitive
-disclosure, and legitimacy in AI--human research.\
-🔗 https://github.com/Waveframe-Labs/Neurotransparency-Doctrine\
-**Concept DOI:** 10.5281/zenodo.17957384
+### Neurotransparency Specification (NTS)
+🔗 https://github.com/Waveframe-Labs/Neurotransparency-Specification  
+DOI: 10.5281/zenodo.17809676
 
----
-
-### **Neurotransparency Specification (NTS)**
-
-Normative specification defining disclosure requirements, agent roles,
-and compliance thresholds.\
-🔗 https://github.com/Waveframe-Labs/Neurotransparency-Specification\
-**Specification DOI:** 10.5281/zenodo.17809676
+### Aurora Research Initiative (ARI)
+🔗 https://github.com/Waveframe-Labs/Aurora-Research-Initiative  
+DOI: 10.5281/zenodo.17743096
 
 ---
 
-### **Aurora Research Initiative (ARI)**
+## Methodology & Runtime
 
-Institutional governance framework defining metadata law, authority
-boundaries, and artifact validity.\
-🔗 https://github.com/Waveframe-Labs/Aurora-Research-Initiative\
-**Concept DOI:** 10.5281/zenodo.17743096
+### Aurora Workflow Orchestration (AWO)
+🔗 https://github.com/Waveframe-Labs/Aurora-Workflow-Orchestration  
+DOI: 10.5281/zenodo.17013612
 
----
-
-## Methodology, Runtime, and Case Studies
-
-### **Aurora Workflow Orchestration (AWO)**
-
-Formal methodology for governed, auditable AI--human research
-workflows.\
-🔗 https://github.com/Waveframe-Labs/Aurora-Workflow-Orchestration\
-**Concept DOI:** 10.5281/zenodo.17013612
-
----
-
-### **CRI-CORE**
-
-Deterministic execution and constraint-enforcement runtime implementing
-AWO rules.\
+### CRI-CORE
 🔗 https://github.com/Waveframe-Labs/CRI-CORE
-
----
-
-### **Waveframe v4.0**
-
-Cosmology case study demonstrating governed reproducibility in
-scientific modeling.\
-🔗 https://github.com/Waveframe-Labs/Waveframe-v4.0\
-**Concept DOI:** 10.5281/zenodo.16872199
-
----
-
-### **Societal Health Simulator (SHS)**
-
-Applied systems-science reproducibility testbed for sociotechnical
-modeling.\
-🔗 https://github.com/Waveframe-Labs/Societal-Health-Simulator\
-**Concept DOI:** 10.5281/zenodo.17258419
-
----
-
-## Tooling
-
-Supporting infrastructure used in governed research workflows.
-
-### **Stamp**
-
-Deterministic metadata and artifact validation tooling.
-
-Features:
-
--   schema-agnostic validation
--   canonical diagnostic objects
--   reproducible validation traces
-
-Install via PyPI:
-
-``` bash
-pip install waveframe-stamp
-```
-
-🔗 https://github.com/Waveframe-Labs/Waveframe-Stamp
-
----
-
-### **Waveframe Forge**
-
-Publication artifact builder used to produce deterministic Markdown →
-PDF research outputs.
-
-Forge freezes validated sources and generates reproducible publication
-artifacts with embedded provenance.
 
 ---
 
 ## Contact
 
-📧 swright@waveframelabs.org\
-🌐 https://waveframelabs.org\
-🧭 ORCID: https://orcid.org/0009-0006-6043-9295
+📧 swright@waveframelabs.org  
+🌐 https://waveframelabs.org  
+🧭 ORCID: https://orcid.org/0009-0006-6043-9295  
 
 ---
 
