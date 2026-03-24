@@ -43,17 +43,17 @@ A working end-to-end pipeline that:
 
 ## How It Works
 
-Policy
+Policy  
 ↓
-Contract Compiler
+Contract Compiler  
 ↓
-Proposal
+Proposal  
 ↓
-Normalizer
+Normalizer    
 ↓
-CRI-CORE
+CRI-COR    
 ↓
-COMMIT ALLOWED / BLOCKED
+COMMIT ALLOWED / BLOCKED    
 
 ---
 
