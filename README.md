@@ -1,92 +1,153 @@
- <p align="center">
+<p align="center">
   <img src="https://raw.githubusercontent.com/Wright-Shawn/Wright-Shawn/main/figures/waveframe-logo-banner-mark.png" width="100%" />
 </p>
 
 # Shawn C. Wright
 
-Building systems that decide whether AI-generated actions are allowed to execute.
+Building deterministic execution-governance infrastructure for AI and automated systems.
+
+Founder of Waveframe Labs.
 
 ---
 
-## What I’m Working On
+## Current Focus
 
-AI systems can propose actions.
+I’m building systems that determine whether proposed actions are admissible before they execute.
 
-But what actually stops a bad one from executing?
+The focus is the execution boundary:
+the moment a system attempts to commit a state-changing action.
 
-Most systems:
-- detect issues
-- log them
-- audit after the fact
-
-I focus on something else:
-
-**stopping invalid actions before they execute.**
-
----
-
-## Start Here
-
-### Governed Mutation Demo (Finance)
-
-A working end-to-end pipeline that:
-
-- takes a proposed action  
-- evaluates it against governance rules  
-- decides:  
-  - ✅ COMMIT ALLOWED  
-  - ❌ COMMIT BLOCKED  
-
-🔗 https://github.com/Waveframe-Labs/governed-finance-mutation-demo
+Current work includes:
+- execution-boundary governance
+- deterministic admissibility enforcement
+- governance operationalization
+- compiled authority contracts
+- canonical proposal systems
+- runtime execution control
 
 ---
 
-## How It Works
+## Canonical Execution Flow
 
-Policy  
-↓    
-Contract Compiler  
-↓    
-Proposal  
-↓    
-Normalizer    
-↓     
-CRI-COR    
-↓    
-COMMIT ALLOWED / BLOCKED    
+```text
+Governance Source
+        ↓
+Governance-Ledger
+        ↓
+Contract Compiler
+        ↓
+Compiled Authority Contract
+        ↓
+Proposal Normalizer
+        ↓
+Canonical Proposal
+        ↓
+CRI-CORE
+        ↓
+COMMIT ALLOWED / BLOCKED
+        ↓
+Waveframe Guard
+        ↓
+Production System
+````
 
 ---
 
-## Core System
+## Core Infrastructure
+
+### Waveframe Guard
+
+Developer-facing runtime enforcement SDK.
+
+Stops unsafe or unauthorized actions before execution.
+
+🔗 [https://github.com/Waveframe-Labs/Waveframe-Guard](https://github.com/Waveframe-Labs/Waveframe-Guard)
+
+---
 
 ### CRI-CORE
-Deterministic enforcement engine that decides whether a system state change is allowed to commit.  
-🔗 https://github.com/Waveframe-Labs/CRI-CORE
+
+Deterministic execution-boundary enforcement kernel.
+
+Evaluates:
+
+* proposals
+* contracts
+* runtime context
+
+Returns:
+
+```python
+commit_allowed = True | False
+```
+
+🔗 [https://github.com/Waveframe-Labs/CRI-CORE](https://github.com/Waveframe-Labs/CRI-CORE)
+
+---
+
+### Governance-Ledger
+
+Governance compilation and semantic validation infrastructure.
+
+Transforms governed source text into deterministic authority artifacts.
+
+🔗 [https://github.com/Waveframe-Labs/Governance-Ledger](https://github.com/Waveframe-Labs/Governance-Ledger)
+
+---
 
 ### Contract Compiler
-Turns governance rules into executable contracts.  
-🔗 https://github.com/Waveframe-Labs/cricore-contract-compiler
+
+Compiles governance rules into deterministic authority contracts.
+
+🔗 [https://github.com/Waveframe-Labs/cricore-contract-compiler](https://github.com/Waveframe-Labs/cricore-contract-compiler)
+
+---
 
 ### Proposal Normalizer
-Converts actions into a standard structure for enforcement.  
-🔗 https://github.com/Waveframe-Labs/proposal-normalizer
+
+Builds canonical proposal objects for enforcement.
+
+🔗 [https://github.com/Waveframe-Labs/proposal-normalizer](https://github.com/Waveframe-Labs/proposal-normalizer)
 
 ---
 
-## Context
+## Example Scenario
 
-This work is developed under **Waveframe Labs**, where I’m building infrastructure for governed, auditable AI systems.
+An AI proposes transferring $2M between cost centers.
 
-The focus is the **execution boundary**:
-the moment a system attempts to act.
+Without enforcement:
+→ action executes
+
+With Waveframe:
+→ proposal evaluated against authority contract
+→ approval requirements checked
+→ execution blocked before commit
 
 ---
 
-## Contact
+## Philosophy
 
-📧 swright@waveframelabs.org  
-🌐 https://waveframelabs.org  
-🧭 https://orcid.org/0009-0006-6043-9295  
+Most systems:
+
+* observe
+* monitor
+* or audit
+
+I’m focused on:
+
+> deterministic execution admissibility
+
+The goal is simple:
+
+> no action executes unless it satisfies governance requirements.
+
+---
+
+## Links
+
+🌐 [https://waveframelabs.org](https://waveframelabs.org)
+📧 [swright@waveframelabs.org](mailto:swright@waveframelabs.org)
+🧭 [https://orcid.org/0009-0006-6043-9295](https://orcid.org/0009-0006-6043-9295)
 
 ---
 
