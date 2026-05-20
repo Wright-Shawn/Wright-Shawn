@@ -1,32 +1,3 @@
----
-title: "Waveframe Labs Organization Overview"
-filetype: "documentation"
-type: "non-normative"
-domain: "infrastructure"
-version: "2.0.0"
-doi: "N/A"
-status: "Active"
-created: "2026-03-04"
-updated: "2026-05-19"
-
-author:
-  name: "Shawn C. Wright"
-  email: "swright@waveframelabs.org"
-  orcid: "https://orcid.org/0009-0006-6043-9295"
-
-maintainer:
-  name: "Waveframe Labs"
-  url: "https://waveframelabs.org"
-
-license: "CC-BY-4.0"
-
-copyright:
-  holder: "Waveframe Labs"
-  year: "2026"
-
-ai_assisted: "partial"
----
-
 <p align="center">
   <img src="../master-banner.png" alt="Waveframe Labs Banner" width="600">
 </p>
